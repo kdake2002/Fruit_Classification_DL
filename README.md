@@ -1,6 +1,5 @@
 # 🍇 Fruit Detection App (YOLOv11 + Streamlit)
 
-APP LINK :- http://localhost:8501/
 
 This project allows real-time fruit detection using a YOLOv11 model via Streamlit and CLI.
 
